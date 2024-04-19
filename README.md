@@ -7,4 +7,6 @@ pymaceuticals
 
 -chatGPT was used when further explinations or quick definitions where needed for a lot of the pandas and .plt methods that were used during this challenge. GPT was also useful for finding the correct syntax and formating of columns in certain dataframes aswell as for formating the .plt for each graph that was required. GPT was overall very useful for the graphing heaving parts of the assignment towards the end. 
 
+- the submission requirements where not clear on what exactly was required when submitting this repo. I included the CSV files and overall submitted this assignment similar to how the PANDAS challenge was submitted. Please let me know if anything is missing and i will provide that for you. 
+
 -As a side not, I did not finish the last graph on the assignment and accept the penalty on the grade. 
